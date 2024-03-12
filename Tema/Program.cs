@@ -25,7 +25,6 @@ class Program
           Accounts.cashDeposits[0].Deposit(700);
           Accounts.savingAccounts[0].Deposit(5);
           Accounts.savingAccounts[0].WithDrawal(1500);
-          //aici pot fi aduagate mai multe operatiuni bancare. 
           //as mai putea adauga alte operatiuni bancare in interfata (cerereImprumut, transfer de bani, etc)
     }
 }
